@@ -295,18 +295,12 @@ http://127.0.0.1:6878/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
 # --- MOTOGP ---
 
 #EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 1080p
-http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+http://127.0.0.1:6878/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
 #EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 1080p alt 2
-http://127.0.0.1:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 1080p alt 3
-http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 1080p alt 4
-http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
+http://127.0.0.1:6878/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c540
 
 #EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 720p
-http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/13/79/68/14/motogp-logo-white.jpeg" group-title="DAZN" tvg-id="DAZN MotoGP.es",Dazn MotoGP 720p alt 2
-http://127.0.0.1:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
+http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 
 # --- ELEVEN SPORTS ---
 
