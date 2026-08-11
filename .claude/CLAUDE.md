@@ -73,7 +73,7 @@ Orden actual de secciones (de arriba a abajo) y su `group-title`:
 6. **MOVISTAR - #VAMOS** (`group-title="Movistar"`)
 7. **DEPORTES** (`group-title="Deportes"`) — subgrupos `MOVISTAR PLUS+` y `OTROS`
 8. **EUROSPORT** (`group-title="Eurosport"`)
-9. **CANALES GENERALES** (`group-title="General"`) — todo lo que no encaja arriba (Antena 3, Cuatro, La1, La Sexta, BeIN Sports, BT Sport, ESPN, Discovery, etc.)
+9. **CANALES GENERALES** (`group-title="General"`) — todo lo que no encaja arriba (Antena 3, Cuatro, La1, La2, La Sexta, BeIN Sports, BT Sport, ESPN, Discovery, etc.)
 
 > La sección **MUNDIAL 2026** (DAZN Mundial 1-4 + M+ Fanzone) existió pero se
 > eliminó por completo a petición del usuario. Si en el futuro se vuelve a pedir
@@ -105,6 +105,8 @@ Cuando el usuario pida cambios en este chat:
 - Si al reemplazar un canal (ej. "borra todos los de X y añade estos") faltan
   variantes que antes existían (p.ej. no viene un 4K y antes sí lo había), esa
   variante simplemente desaparece — no preguntar, no inventar un enlace de relleno.
+- Si un enlace que pega el usuario no trae la resolución indicada en el nombre,
+  asumir siempre **1080p** — no preguntar.
 
 ## spain1.xml
 
@@ -112,6 +114,12 @@ Es la guía EPG (`url-tvg` en la cabecera `#EXTM3U`). Contiene `<channel id="...
 y `<programme channel="...">` para la programación. Se usa solo como referencia
 para validar/completar el `tvg-id` de los canales — no se edita como parte de este
 flujo de trabajo salvo que el usuario lo pida explícitamente.
+
+**No se guarda una copia local en el repo.** Cuando haga falta comprobar o buscar
+un `tvg-id`, consultarlo directamente desde
+`https://www.open-epg.com/files/spain1.xml` (con WebFetch o descargándolo a un
+temporal). Es un fichero grande (~1.3 MB), así que conviene usar `grep`/búsqueda
+puntual sobre él en vez de leerlo entero.
 
 ## Correcciones ya aplicadas (histórico, por si se repite el patrón)
 
