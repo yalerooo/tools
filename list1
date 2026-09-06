@@ -94,6 +94,12 @@ http://127.0.0.1:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/960px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="Liga" tvg-id="RFEF TV.es",RFEF TV 1080p
 http://127.0.0.1:6878/ace/getstream?id=7b742628b9f7e82902bdbc1ff92eba1988875cfc
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/960px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="Liga" tvg-id="RFEF TV.es",RFEF TV 1080p alt 2
+http://127.0.0.1:6878/ace/getstream?id=177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/960px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="Liga" tvg-id="RFEF TV.es",RFEF TV 1080p alt 3
+http://127.0.0.1:6878/ace/getstream?id=3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/960px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="Liga" tvg-id="RFEF TV.es",RFEF TV 1080p alt 4
+http://127.0.0.1:6878/ace/getstream?id=854ff9c607101791346111cd2366a392c3b8c351
 
 ############################################################
 # LALIGA HYPERMOTION - SEGUNDA DIVISION
@@ -244,21 +250,21 @@ http://127.0.0.1:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
 
 # --- CANALES DAZN 1-4 ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 1.es",Dazn 1 1080p
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN" tvg-id="DAZN 1.es",Dazn 1 1080p
 http://127.0.0.1:6878/ace/getstream?id=78124d96a1a4601e7910f50e36a16e35efcfb398
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 1.es",Dazn 1 720p
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN" tvg-id="DAZN 1.es",Dazn 1 720p
 http://127.0.0.1:6878/ace/getstream?id=f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 2.es",Dazn 2 1080p
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN" tvg-id="DAZN 2.es",Dazn 2 1080p
 http://127.0.0.1:6878/ace/getstream?id=01ce89b571b6c89bc19ccaafc913d483ac65c61d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 2.es",Dazn 2 1080p alt 2
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN" tvg-id="DAZN 2.es",Dazn 2 1080p alt 2
 http://127.0.0.1:6878/ace/getstream?id=d60b8c154828cb990b7bb1570764b215bd979e74
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 3.es",Dazn 3 1080p
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN" tvg-id="DAZN 3.es",Dazn 3 1080p
 http://127.0.0.1:6878/ace/getstream?id=85fd2f5f6a38fead496a8e8697c874f459f92bab
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN 4.es",Dazn 4 1080p
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN" tvg-id="DAZN 4.es",Dazn 4 1080p
 http://127.0.0.1:6878/ace/getstream?id=9ced16b2055c99bf89c26e678e315e1b01d3734c
 
 # --- FORMULA 1 ---
@@ -391,6 +397,9 @@ http://127.0.0.1:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 http://127.0.0.1:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
 # --- OTROS ---
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyASv5CAgFEt2uZf7BZSlRzHCAFdQv8EswmBYSmrjEtTtaEcmfNBwq6M&s=10" group-title="Deportes" tvg-id="Aragón Deporte.es",Aragón Deporte 1080p
+http://127.0.0.1:6878/ace/getstream?id=a2b43f318a27cef1f3c1001d0a408ef1ba6bf1b0
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="Deportes" tvg-id="ESPN LAT DEPORT",ESPN LAT DEPORT
 http://127.0.0.1:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8

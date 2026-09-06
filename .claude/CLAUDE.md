@@ -174,7 +174,7 @@ cambia la URL. Nombre de archivo → uso:
 | `golplay.jpg` | GOLPLAY |
 | `esports3.png` | ESPORTS 3 |
 | `m-plus.png` | Movistar Plus+ |
-| `dazn-generico.svg` | Dazn 1, 2, 3, 4 |
+| `dazn-1.png` a `dazn-4.png` | Dazn 1, 2, 3, 4 (logo propio por canal) |
 | `dazn-f1.png` | DAZN F1 |
 | `dazn-motogp.jpg` | Dazn MotoGP |
 | `dazn-liga-1.png` a `dazn-liga-4.png` | DAZN Liga 1, 2, 3, 4 |
@@ -186,6 +186,7 @@ cambia la URL. Nombre de archivo → uso:
 | `primera-federacion.png` | 1ª FEDERACIÓN |
 | `rfef-tv.png` | RFEF TV |
 | `aragon-tv.png` | ARAGÓN TV |
+| `aragon-deporte.jpg` | Aragón Deporte |
 
 **Sin logo todavía** (`tvg-logo=""`, el usuario no ha dado enlace): ELEVEN DAZN 5,
 ELEVEN DAZN 6, MOTORVISIÓN, FSN, Tennis Channel.
@@ -217,5 +218,10 @@ Estos `tvg-id` estaban mal escritos respecto a `spain1.xml` y se corrigieron:
 
 Algunos `tvg-id` (BeIN Sports, BT Sport, Canal Cocina, DAZN Mundial, Eleven Dazn,
 ESPN Argentina/Premium/Lat, Fox Sports, FSN, M+ Fanzone, M+ Deportes 8, Motors TV,
-Motorvisión) **no existen en `spain1.xml`** — se dejaron tal cual porque no hay
-mejor alternativa conocida; simplemente no tendrán programación de EPG.
+Motorvisión, Aragón Deporte) **no existen en `spain1.xml`** — se dejaron tal cual
+porque no hay mejor alternativa conocida; simplemente no tendrán programación de EPG.
+
+**Aragón Deporte** es un canal distinto de "Aragón TV" (canal autonómico general) —
+es el canal de deportes de la misma cadena. Se colocó en `group-title="Deportes"`,
+subgrupo `OTROS`, junto a Motors TV/Motorvisión/Golf/Tennis Channel (deporte
+regional/genérico sin competición propia), no en "General" junto a Aragón TV.
