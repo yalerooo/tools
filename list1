@@ -60,17 +60,8 @@ http://127.0.0.1:6878/ace/getstream?id=448551642d9c7d0de53aa35d1ee41788909b6c0c
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="Liga" tvg-id="M+ LALIGA 2.es",M. Liga 2 720p
 http://127.0.0.1:6878/ace/getstream?id=d16a9b50042cb9d6e648cae3b1472f655c4def61
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3 1080p
-http://127.0.0.1:6878/ace/getstream?id=7bd9d072b65919352bda907b472961641e6e2930
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3 1080p alt 2
-http://127.0.0.1:6878/ace/getstream?id=db167236340a84f74c4add77ad708ab137b53cb1
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3 1080p alt 3
-http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3 720p
-http://127.0.0.1:6878/ace/getstream?id=7a8c26ece4d1ce106225a2bc66260f6a5b9be913
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3 720p alt 2
-http://127.0.0.1:6878/ace/getstream?id=830ceea0061cddf3006de6f34e24b30f8ee0956a
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/dri1zn1764701454.png" group-title="Liga" tvg-id="M+ LALIGA 3.es",M. Liga 3
+http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/swyxcc1764701305.png" group-title="Liga" tvg-id="M+ LALIGA 4.es",M. Liga 4 1080p
 http://127.0.0.1:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
