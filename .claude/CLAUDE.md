@@ -152,8 +152,8 @@ cambia la URL. Nombre de archivo → uso:
 | Archivo en `logos/` | Canal(es) que lo usan |
 |---|---|
 | `campeones-1.png` | CAMPEONES (Champions League 1) |
-| `campeones-2.png` a `campeones-5.png` | CAMPEONES 2, 3, 4, 5 |
-| `campeones-6-unused.png` a `campeones-13-unused.png` | de repuesto, sin asignar — para cuando se añadan Campeones 6+ |
+| `campeones-2.png` a `campeones-6.png` | CAMPEONES 2, 3, 4, 5, 6 |
+| `campeones-7-unused.png` a `campeones-13-unused.png` | de repuesto, sin asignar — para cuando se añadan Campeones 7+ |
 | `vamos.png` | #VAMOS, #VAMOS 2, #VAMOS 3 |
 | `deportes-1.png` | Deportes (1) y TELEDEPORTE |
 | `deportes-2.png` a `deportes-8.png` | Deportes 2 a Deportes 8 |
