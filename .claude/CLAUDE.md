@@ -65,7 +65,7 @@ una línea en blanco para que sea fácil de leer de un vistazo.
 
 Orden actual de secciones (de arriba a abajo) y su `group-title`:
 
-1. **LALIGA - PRIMERA DIVISION** (`group-title="Liga"`) — subgrupos `DAZN`, `MOVISTAR PLUS+` y `RFEF (FEDERACIÓN)`
+1. **LALIGA - PRIMERA DIVISION** (`group-title="Liga"`) — subgrupos `DAZN`, `MOVISTAR PLUS+`, `DISNEY+` y `RFEF (FEDERACIÓN)`
 2. **LALIGA HYPERMOTION - SEGUNDA DIVISION** (`group-title="LaLiga Hypermotion"`)
 3. **UEFA CHAMPIONS LEAGUE** (`group-title="Champions"`)
 4. **BALONCESTO** (`group-title="Baloncesto"`) — subgrupos `DAZN`, `MOVISTAR PLUS+`, `ACB - EVENTOS`
@@ -187,6 +187,7 @@ cambia la URL. Nombre de archivo → uso:
 | `rfef-tv.png` | RFEF TV |
 | `aragon-tv.png` | ARAGÓN TV |
 | `aragon-deporte.jpg` | Aragón Deporte |
+| `disney-laliga-1.jpg` | Disney + LaLiga 1 +ESPN |
 
 **Sin logo todavía** (`tvg-logo=""`, el usuario no ha dado enlace): ELEVEN DAZN 5,
 ELEVEN DAZN 6, MOTORVISIÓN, FSN, Tennis Channel.

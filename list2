@@ -77,6 +77,11 @@ http://192.168.68.110:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nelr051764701116.png" group-title="Liga" tvg-id="M+ LALIGA 5.es",M. Liga 5 1080p
 http://192.168.68.110:6878/ace/getstream?id=56ef80b811b65df74edae1f2a23805c45600caad
 
+# --- DISNEY+ ---
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvrtnPmPUF2cW0cjaGEBEuRlAxfVAqQk-B5MZAZTX6AlQSDGry_oy0KI&s=10" group-title="Liga" tvg-id="Disney+ LaLiga 1.es",Disney + LaLiga 1 +ESPN
+http://192.168.68.110:6878/ace/getstream?id=c60cc0f908ea9f135f9fde01da05768805b66923
+
 # --- RFEF (FEDERACIÓN) ---
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/2/primera-federacion-logo-png_seeklogo-494767.png" group-title="Liga" tvg-id="Primera Federación.es",1ª FEDERACIÓN 1080p
