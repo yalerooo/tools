@@ -7,7 +7,7 @@
 # --- DAZN ---
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080p
-http://192.168.68.110:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+http://192.168.68.110:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080p alt 2
 http://192.168.68.110:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080p alt 3
