@@ -68,12 +68,12 @@ Orden actual de secciones (de arriba a abajo) y su `group-title`:
 1. **LALIGA - PRIMERA DIVISION** (`group-title="Liga"`) — subgrupos `DAZN`, `MOVISTAR PLUS+`, `DISNEY+` y `RFEF (FEDERACIÓN)`
 2. **LALIGA HYPERMOTION - SEGUNDA DIVISION** (`group-title="LaLiga Hypermotion"`)
 3. **UEFA CHAMPIONS LEAGUE** (`group-title="Champions"`)
-4. **BALONCESTO** (`group-title="Baloncesto"`) — subgrupos `DAZN`, `MOVISTAR PLUS+`, `ACB - EVENTOS`
+4. **BALONCESTO** (`group-title="Baloncesto"`) — subgrupos `DAZN`, `MOVISTAR PLUS+`, `ACB - EVENTOS`, `NBA`
 5. **DAZN - CANALES GENERALES** (`group-title="DAZN"`) — subgrupos `CANALES DAZN 1-4`, `FORMULA 1`, `MOTOGP`, `ELEVEN SPORTS`
 6. **MOVISTAR - #VAMOS** (`group-title="Movistar"`)
 7. **DEPORTES** (`group-title="Deportes"`) — subgrupos `MOVISTAR PLUS+`, `OTROS` e `INTERNACIONAL`
 8. **EUROSPORT** (`group-title="Eurosport"`)
-9. **CANALES GENERALES** (`group-title="General"`) — solo TV generalista española: Antena 3, Aragón TV, Canal Cocina, Cuatro, Discovery, La Sexta, La1, La2, Movistar Plus+
+9. **CANALES GENERALES** (`group-title="General"`) — solo TV generalista española: Antena 3, Aragón TV, Canal Cocina, Cuatro, Discovery, La Sexta, La1, La2, Movistar Plus+, Telecinco
 
 **Regla de coherencia de grupos:** `group-title` agrupa por temática real, no por dónde
 pegó el usuario el enlace. En concreto:
@@ -153,14 +153,15 @@ cambia la URL. Nombre de archivo → uso:
 |---|---|
 | `campeones-1.png` | CAMPEONES (Champions League 1) |
 | `campeones-2.png` a `campeones-6.png` | CAMPEONES 2, 3, 4, 5, 6 |
-| `campeones-7-unused.png` a `campeones-13-unused.png` | de repuesto, sin asignar — para cuando se añadan Campeones 7+ |
+| `campeones-7-unused.png` | CAMPEONES 7 (enlazado vía `raw.githubusercontent.com/yalerooo/tools/main/logos/campeones-7-unused.png`, no renombrar) |
+| `campeones-8-unused.png` a `campeones-13-unused.png` | de repuesto, sin asignar — para cuando se añadan Campeones 8+ |
 | `vamos.png` | #VAMOS, #VAMOS 2, #VAMOS 3 |
 | `deportes-1.png` | Deportes (1) y TELEDEPORTE |
 | `deportes-2.png` a `deportes-8.png` | Deportes 2 a Deportes 8 |
 | `golf-1.png` / `golf-2.png` | Movistar + Golf / Golf 2 |
 | `dazn-baloncesto.png` | DAZN Baloncesto 1/2/3 y todos los ACB Eventos + DAZN ACB 1 |
 | `m-baloncesto.png` | M+ Baloncesto 1/2/3 |
-| `espn.png` | ESPN Argentina, ESPN Premium, ESPN Lat Deport |
+| `espn.png` | ESPN Argentina, ESPN Premium, ESPN Lat Deport, NBA ESPN |
 | `bt-sport.png` | BT Sport 1/2/3 UK |
 | `bein-sports.png` | BeIN Sports 1/2/3/4 Turquía/Ñ |
 | `fox-sports.png` | FOX SPORTS |
@@ -190,7 +191,8 @@ cambia la URL. Nombre de archivo → uso:
 | `disney-laliga-1.jpg` | Disney + LaLiga 1 +ESPN |
 
 **Sin logo todavía** (`tvg-logo=""`, el usuario no ha dado enlace): ELEVEN DAZN 5,
-ELEVEN DAZN 6, MOTORVISIÓN, FSN, Tennis Channel.
+ELEVEN DAZN 6, MOTORVISIÓN, FSN, Tennis Channel, Rally TV, Real Madrid TV, Onetoro TV,
+Altitude Sports, Sky Sport Tennis, UFC Fight Pass, Telecinco.
 
 Si el usuario pasa un logo nuevo para un canal: 1) comprobar que la URL carga
 (`curl -o /dev/null -w "%{http_code}"`, cuidado con falsos 429 de Wikimedia por
@@ -216,6 +218,7 @@ Estos `tvg-id` estaban mal escritos respecto a `spain1.xml` y se corrigieron:
 | `ARAGÓN TV` | `Aragón TV.es` |
 | `Discovery Channel.es` | `Discovery.es` |
 | `La 1.es` | `LA 1.es` |
+| `Eurosport 1.es` (usado para Eurosport 2) | `Eurosport 2.es` |
 
 Algunos `tvg-id` (BeIN Sports, BT Sport, Canal Cocina, DAZN Mundial, Eleven Dazn,
 ESPN Argentina/Premium/Lat, Fox Sports, FSN, M+ Fanzone, M+ Deportes 8, Motors TV,
